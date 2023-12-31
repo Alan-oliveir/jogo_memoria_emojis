@@ -4,7 +4,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Sobre:** Projeto simples de um jogo da memória usando caracteres de emojis como ilustrações. 
+**Sobre:** Projeto simples de um jogo da memória usando emojis como ilustrações.    
+Este projeto faz parte do Bootcamp Potência Tech iFood - Desenvolvimento de Jogos. 
 
 ### Tecnologias Utilizadas
 

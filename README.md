@@ -1,4 +1,4 @@
-# Jogo da Memória com Emojis 
+# Jogo da Memória com Emojis 😊
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -7,15 +7,16 @@
 **Sobre:** Projeto simples de um jogo da memória usando emojis como ilustrações.    
 Este projeto faz parte do Bootcamp Potência Tech iFood - Desenvolvimento de Jogos. 
 
-### Tecnologias Utilizadas
+### Tecnologias Utilizadas 👍
 
 - HTML5 e CSS3 para a estrutura e aparência do jogo.
 - JavaScript para a lógica de programação e interatividade.
 
-### Como Jogar
+### Como Jogar 🎯
 
 - Clique em duas cartas, você deve encontrar o par da primeira carta selecionada;
 - Ao encontrar todos os pares, você vence o jogo e poderá reiniciar clicando no botão de reset no canto inferior da página.
+- **Observação:** Este jogo não funciona corretamente utilizando o navegador Mozilla Firefox. 
 
 ### Layout do jogo
 ![Screenshot](https://github.com/Alan-oliveir/jogo_memoria_emojis/blob/main/images/memory_game_screen.png)
@@ -26,4 +27,3 @@ Acesse [aqui](https://github.com/Alan-oliveir/jogo_memoria_emojis/blob/main/CRED
 
 **Contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-ogoncalves)
-

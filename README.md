@@ -21,7 +21,11 @@ Este projeto faz parte do Bootcamp Potência Tech iFood - Desenvolvimento de Jog
 ### Layout do jogo
 ![Screenshot](https://github.com/Alan-oliveir/jogo_memoria_emojis/blob/main/images/memory_game_screen.png)
 
+### Deploy
+O jogo está disponível em:
+https://alan-oliveir.github.io/jogo_memoria_emojis/
 ___
+
 **Créditos:**   
 Acesse [aqui](https://github.com/Alan-oliveir/jogo_memoria_emojis/blob/main/CREDITS.md)
 
